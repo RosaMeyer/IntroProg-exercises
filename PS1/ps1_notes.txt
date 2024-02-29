@@ -2,3 +2,5 @@
 A1
 In the solution there is default parameter values for alpha and beta
 
+Problems with: plt.style.use('seaborn-whitegrid')
+print(plt.style.available)
